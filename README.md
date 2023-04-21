@@ -1,6 +1,6 @@
 # Petőfi Sándor Biography
 
-This project is a Vue 2 web application that showcases important events from the life of Petőfi Sándor, one of the most well-known poets from Hungary. The project consists of a timeline and a map that visually display the various events that took place during Petőfi Sándor's lifetime. Additionally, the project includes school notes that provide more information about his life and work.
+This project is a Vue 2 web application that showcases important events from the life of Petőfi Sándor, one of the most well-known poets from Hungary. The project consists of a timeline and a map that visually display the various events that took place during Petőfi Sándor's lifetime. Additionally, the project includes school notes that provide more information about his life and work. This project was created as a school project, and it is published at [https://petofi-osszefoglalas.netlify.app/](https://petofi-osszefoglalas.netlify.app/).
 
 ## Features
 
